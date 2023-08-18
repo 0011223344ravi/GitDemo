@@ -11,4 +11,5 @@ public class GitDemoAppApplication {
 	}
 
 	//test1 commit message
+	//test2 commit message
 }
